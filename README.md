@@ -8,7 +8,7 @@
 ### Projects
 <a href="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tqa&repo=Python_Customer_Churn_Classification_Models&theme=vue-dark" />
+  <img align="center" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/blob/main/README.md&theme=vue-dark" />
 </a>  
 <a href="https://github.com/pth11/Python_Cohort_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
