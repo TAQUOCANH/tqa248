@@ -6,9 +6,9 @@
 - Machine Learning: Basic models for supervised, K-means for unsupervised
 
 ### Projects
-<a href="[https://github.com/pth11/Python_RFM_Analysis](https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models)">
+<a href="https://github.com/pth11/Python_RFM_Analysis](https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=Python_RFM_Analysis&theme=vue-dark](https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=Python_RFM_Analysis&theme=vue-dark](https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models)" />
 </a>  
 <a href="https://github.com/pth11/Python_Cohort_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
