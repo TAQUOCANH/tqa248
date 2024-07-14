@@ -8,4 +8,7 @@
 ### Projects
 
 ### Work experience
+<p>EM BE OI JOINT STOCK COMPANY -  Purchasing Executive	May 2022 - Feb 2023</p>
+
+<p>Viet D.E.L.T.A Industrial Co., Ltd - Purchasing Staff	Sep 2021 - Mar 2022</p>
 
