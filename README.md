@@ -5,8 +5,6 @@
 - Python: Numpy, Pandas, Matplotlib, Seaborn
 - Machine Learning: Basic models for supervised, K-means for unsupervised
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=PBI_RFM_ANALYSIS)
-
 ### Projects
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=PBI_RFM_ANALYSIS)
 
