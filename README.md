@@ -5,10 +5,12 @@
 - Python: Numpy, Pandas, Matplotlib, Seaborn
 - Machine Learning: Basic models for supervised, K-means for unsupervised
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=PBI_RFM_ANALYSIS)
+
 ### Projects
 <a href="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  
 </a>  
 <a href="https://github.com/pth11/Python_Cohort_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
