@@ -8,26 +8,16 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=PBI_RFM_ANALYSIS)
 
 ### Projects
-<a href="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  
-</a>  
-<a href="https://github.com/pth11/Python_Cohort_Analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
-</a>
-<a href="https://github.com/pth11/SQL-PBI_Inventory_Controlling">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
-</a>  
-<a href="https://github.com/pth11/SQL_Ecommerce_Exploring">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
-</a>  
-<a href="https://github.com/pth11/ML_4G_service_prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
-</a>  
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=PBI_RFM_ANALYSIS)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=Python_Customer_Churn_Classification_Models)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=SQL_E-Commerce_Dataset)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=SQL-PBI_Bank_Loan_Data_Analysis)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAQUOCANH&repo=SQL_Bicycle_Manufacturer)
+
 
 ### Work experience
 **EM BE OI JOINT STOCK COMPANY** -  Purchasing Executive	May 2022 - Feb 2023
